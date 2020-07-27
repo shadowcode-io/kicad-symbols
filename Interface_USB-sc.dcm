@@ -6,4 +6,10 @@ K FTDI USB UART interface converter
 F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf
 $ENDCMP
 #
+$CMP TUSB320LAI
+D USB Type-C Configuration Channel Logic and Port Control, X2QFN-12
+K USB PD CC
+F http://www.ti.com/lit/ds/symlink/tusb320lai.pdf
+$ENDCMP
+#
 #End Doc Library

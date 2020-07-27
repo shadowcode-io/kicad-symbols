@@ -6,6 +6,12 @@ K FTDI USB UART interface converter
 F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf
 $ENDCMP
 #
+$CMP STUSB4500L
+D Standalone USB Type-C port controller for power sinking devices, QFN-24
+K USB Type C Sink
+F https://www.st.com/resource/en/datasheet/stusb4500l.pdf
+$ENDCMP
+#
 $CMP TUSB320LAI
 D USB Type-C Configuration Channel Logic and Port Control, X2QFN-12
 K USB PD CC
